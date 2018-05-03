@@ -1,6 +1,6 @@
 # Certificate Transparency
 
-TODO: スライドの説明
+LILO&東海道らぐオフラインミーティングで Certificate Transparency (証明書の透明性) についての話をした時の発表資料です。
 
 ## 作者向け
 
