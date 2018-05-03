@@ -66,6 +66,11 @@ theme
 
 自分のドメインでも発行されていたので、 GitHub に確認したところ、いくつかのドメインで試験的にやっているという返事がきた。
 
+# 発表後追記
+
+5月1日から正式対応になっていました。
+<https://blog.github.com/2018-05-01-github-pages-custom-domains-https/>
+
 # 参考文献
 
 - <http://www.jnsa.org/seminar/pki-day/2016/data/1-2_oosumi.pdf>
